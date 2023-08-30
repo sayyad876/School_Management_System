@@ -5,7 +5,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class Admin extends javax.swing.JFrame {
+public class Admin extends javax.swing.JFrame { 
  
             
     Connection conn=null;
