@@ -8,16 +8,10 @@ import javax.swing.JOptionPane;
 import net.proteanit.sql.DbUtils;
 
 
-public class All_Employees_Data_Details extends javax.swing.JFrame {  
-
-    
-    
-                    
+public class All_Employees_Data_Details extends javax.swing.JFrame {                 
     Connection conn=null;
     ResultSet rs=null;
     PreparedStatement pst=null;
-    
-    
     
     public All_Employees_Data_Details() {
         initComponents();
